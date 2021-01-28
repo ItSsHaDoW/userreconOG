@@ -9,9 +9,9 @@ banner() {
 
 
 
-printf "          UserReconOG by @Graey    @ItSsHaDoW                                                  \n"
-printf "                                                               \n"
-printf "                                                               \n"
+printf "          UserReconOG by     @ItSsHaDoW                                                  \n"
+printf "                             @Nikhil                 \n"
+printf "                             @Yogesh                                  \n"
                                                 
 
 
