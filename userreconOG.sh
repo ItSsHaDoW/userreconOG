@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Edit Author: Graey
+
 
 
 trap 'printf "\n";partial;exit 1' 2
@@ -10,8 +10,7 @@ banner() {
 
 
 printf "          UserReconOG by     @ItSsHaDoW                                                  \n"
-printf "                             @Nikhil                 \n"
-printf "                             @Yogesh                                  \n"
+
                                                 
 
 
